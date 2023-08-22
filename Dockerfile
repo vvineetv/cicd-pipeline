@@ -1,2 +1,2 @@
-FROM vvineetv/apache
+FROM FROM httpd:latest
 ADD . /var/www/html
