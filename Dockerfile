@@ -1,2 +1,2 @@
 FROM vvineetv/apache
-ADD . 
+ADD . /var/www/html
