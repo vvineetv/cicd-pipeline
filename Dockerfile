@@ -1,2 +1,2 @@
-FROM nginx:alpine
+FROM httpd:latest
 ADD . /var/www/html
