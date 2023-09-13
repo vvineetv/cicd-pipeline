@@ -1,2 +1,2 @@
 FROM httpd:latest
-ADD . /var/www/html
+ADD . /var/www/html 
