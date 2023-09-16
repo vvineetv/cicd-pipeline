@@ -1,4 +1,2 @@
-FROM ubuntu
-sudo apt update
-sudo apt install apache2
+FROM httpd:latest
 ADD . /var/www/html
