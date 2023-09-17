@@ -1,2 +1,5 @@
-FROM ubuntu
-COPY ./index.html /usr/share/nginx/html/index.html
+<html>
+    <body>
+        Hello from Octopus!
+    </body>
+</html>
