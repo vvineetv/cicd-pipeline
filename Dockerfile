@@ -1,2 +1,2 @@
-FROM nginx:alpine
+FROM nginx:alpine 
 ADD . /var/www/html
