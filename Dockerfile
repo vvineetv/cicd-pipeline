@@ -1,2 +1,2 @@
 FROM ubuntu
-ADD . /var/www/html
+COPY ./index.html /usr/share/nginx/html/index.html
