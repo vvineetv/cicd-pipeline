@@ -1,5 +1,2 @@
-<html>
-    <body>
-        Hello from Octopus!
-    </body>
-</html>
+FROM nginx
+COPY index.html /usr/share/nginx/html/index.html
